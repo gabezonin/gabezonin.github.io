@@ -1,8 +1,19 @@
-﻿body {
+body {
     
     background-image: url("pizzabeige.PNG");
+    background-repeat: no-repeat;
     background-size: cover;
 }
+
+body > div {
+    text-align: center;
+    padding: 15px;
+    color: white;
+    border: 1px solid white;
+    border-radius: 4px;
+    box-shadow: 0px 0px 10px black;
+    background-color: rgba(.8, .8, .8, 0.5);
+    
 }
 
 h1 {
