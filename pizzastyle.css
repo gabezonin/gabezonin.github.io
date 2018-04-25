@@ -5,6 +5,12 @@ body {
     background-size: cover;
 }
 
+#borderimg {
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(slice.png) 30 round;
+}
+
 body > div {
     text-align: center;
     padding: 15px;
