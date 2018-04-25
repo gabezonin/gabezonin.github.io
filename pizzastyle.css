@@ -60,6 +60,9 @@ body {
     background-color: #ddd;
     color: black;
 }
+.column2 {
+    column-count: 9;
+}
 .column {
     column-count: 4;
 }
