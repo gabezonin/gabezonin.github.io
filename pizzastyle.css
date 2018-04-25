@@ -39,7 +39,7 @@ body {
 
 /* Style the side navigation */
 .sidenav {
-    height: 30vh;
+    height: 50vh;
     width: 200px;
     position: fixed;
     z-index: 1;
