@@ -62,8 +62,6 @@ body {
 .content1 {
     margin-left: 200px;
     padding-left: 20px;
-    border-radius: 4px;
-    border: 10px solid transparent;
-    border-image: url("slice.png") 30 round;
+   
 }
 
