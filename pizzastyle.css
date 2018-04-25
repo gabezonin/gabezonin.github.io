@@ -8,7 +8,7 @@ body {
 #borderimg {
     border: 10px solid transparent;
     padding: 15px;
-    border-image: url(slice.png) 30 round;
+    border-image: url("slice.png") 30 round;
 }
 
 body > div {
@@ -63,7 +63,9 @@ body {
     background-color: #ddd;
     color: black;
 }
-
+.content2 {
+    margin-left: 200px;
+    padding-left: 20px;
 /* Style the content */
 .content1 {
     margin-left: 200px;
