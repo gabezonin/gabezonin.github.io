@@ -1,6 +1,7 @@
 ﻿body {
     
-    background-image: url("https://raw.githubusercontent.com/gabezonin/gabezonin.github.io/master/pizzabeige.PNG");
+    background-image: url("pizzabeige.PNG");
+    background-repeat: no-repeat;
 }
 }
 
